@@ -1,0 +1,9 @@
+c:\users\yp\documents\visual studio 2015\Projects\YPPOS_UPLOAD\YPPOS_UPLOAD\bin\Debug\YPPOS_UPLOAD.exe.config
+c:\users\yp\documents\visual studio 2015\Projects\YPPOS_UPLOAD\YPPOS_UPLOAD\bin\Debug\YPPOS_UPLOAD.exe
+c:\users\yp\documents\visual studio 2015\Projects\YPPOS_UPLOAD\YPPOS_UPLOAD\bin\Debug\YPPOS_UPLOAD.pdb
+c:\users\yp\documents\visual studio 2015\Projects\YPPOS_UPLOAD\YPPOS_UPLOAD\obj\Debug\YPPOS_UPLOAD.csprojResolveAssemblyReference.cache
+c:\users\yp\documents\visual studio 2015\Projects\YPPOS_UPLOAD\YPPOS_UPLOAD\obj\Debug\YPPOS_UPLOAD.Form1.resources
+c:\users\yp\documents\visual studio 2015\Projects\YPPOS_UPLOAD\YPPOS_UPLOAD\obj\Debug\YPPOS_UPLOAD.Properties.Resources.resources
+c:\users\yp\documents\visual studio 2015\Projects\YPPOS_UPLOAD\YPPOS_UPLOAD\obj\Debug\YPPOS_UPLOAD.csproj.GenerateResource.Cache
+c:\users\yp\documents\visual studio 2015\Projects\YPPOS_UPLOAD\YPPOS_UPLOAD\obj\Debug\YPPOS_UPLOAD.exe
+c:\users\yp\documents\visual studio 2015\Projects\YPPOS_UPLOAD\YPPOS_UPLOAD\obj\Debug\YPPOS_UPLOAD.pdb

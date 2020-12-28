@@ -1,0 +1,18 @@
+C:\Users\yp\documents\visual studio 2015\Projects\YPPOS_UPLOAD\YPPOS_UPLOAD\bin\Release\YPPOS_UPLOAD.exe.config
+C:\Users\yp\documents\visual studio 2015\Projects\YPPOS_UPLOAD\YPPOS_UPLOAD\bin\Release\YPPOS_UPLOAD.exe
+C:\Users\yp\documents\visual studio 2015\Projects\YPPOS_UPLOAD\YPPOS_UPLOAD\bin\Release\YPPOS_UPLOAD.pdb
+C:\Users\yp\documents\visual studio 2015\Projects\YPPOS_UPLOAD\YPPOS_UPLOAD\obj\Release\YPPOS_UPLOAD.Form1.resources
+C:\Users\yp\documents\visual studio 2015\Projects\YPPOS_UPLOAD\YPPOS_UPLOAD\obj\Release\YPPOS_UPLOAD.Properties.Resources.resources
+C:\Users\yp\documents\visual studio 2015\Projects\YPPOS_UPLOAD\YPPOS_UPLOAD\obj\Release\YPPOS_UPLOAD.csproj.GenerateResource.Cache
+C:\Users\yp\documents\visual studio 2015\Projects\YPPOS_UPLOAD\YPPOS_UPLOAD\obj\Release\YPPOS_UPLOAD.exe
+C:\Users\yp\documents\visual studio 2015\Projects\YPPOS_UPLOAD\YPPOS_UPLOAD\obj\Release\YPPOS_UPLOAD.pdb
+C:\Users\yp\documents\visual studio 2015\Projects\YPPOS_UPLOAD\YPPOS_UPLOAD\obj\Release\YPPOS_UPLOAD.csprojResolveAssemblyReference.cache
+C:\Users\YP\Documents\Visual Studio 2015\Projects\YPPOS_UPLOAD 소스 - 복사본\YPPOS_UPLOAD\bin\Release\YPPOS_UPLOAD.exe.config
+C:\Users\YP\Documents\Visual Studio 2015\Projects\YPPOS_UPLOAD 소스 - 복사본\YPPOS_UPLOAD\obj\Release\YPPOS_UPLOAD.exe
+C:\Users\YP\Documents\Visual Studio 2015\Projects\YPPOS_UPLOAD 소스 - 복사본\YPPOS_UPLOAD\obj\Release\YPPOS_UPLOAD.pdb
+C:\Users\YP\Documents\Visual Studio 2015\Projects\YPPOS_UPLOAD 소스 - 복사본\YPPOS_UPLOAD\bin\Release\YPPOS_UPLOAD.exe
+C:\Users\YP\Documents\Visual Studio 2015\Projects\YPPOS_UPLOAD 소스 - 복사본\YPPOS_UPLOAD\bin\Release\YPPOS_UPLOAD.pdb
+C:\Users\YP\Documents\Visual Studio 2015\Projects\YPPOS_UPLOAD 소스 - 복사본\YPPOS_UPLOAD\obj\Release\YPPOS_UPLOAD.csprojResolveAssemblyReference.cache
+C:\Users\YP\Documents\Visual Studio 2015\Projects\YPPOS_UPLOAD 소스 - 복사본\YPPOS_UPLOAD\obj\Release\YPPOS_UPLOAD.Form1.resources
+C:\Users\YP\Documents\Visual Studio 2015\Projects\YPPOS_UPLOAD 소스 - 복사본\YPPOS_UPLOAD\obj\Release\YPPOS_UPLOAD.Properties.Resources.resources
+C:\Users\YP\Documents\Visual Studio 2015\Projects\YPPOS_UPLOAD 소스 - 복사본\YPPOS_UPLOAD\obj\Release\YPPOS_UPLOAD.csproj.GenerateResource.Cache
